@@ -9,4 +9,5 @@
     <color name="textColor">#1e1e1e</color>
     <color name="textLightColor">#808080</color>
     <color name="separatorColor">#DDDDDD</color>
+    <color name="white">#FFFFFF</color>
 </resources>

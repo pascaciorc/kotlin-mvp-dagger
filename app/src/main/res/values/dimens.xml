@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="cover_height">120dp</dimen>
-    <dimen name="profile_img_size">80dp</dimen>
-    <dimen name="profile_img_size_round">40dp</dimen>
-    <dimen name="profile_img_top_margin">65dp</dimen>
-    <dimen name="profile_img_elevation">10dp</dimen>
+    <dimen name="textSize">18sp</dimen>
+    <dimen name="smallTextSize">16sp</dimen>
+    <dimen name="bigTextSize">24sp</dimen>
+    <dimen name="normalSpacing">8dp</dimen>
+    <dimen name="smallSpacing">4dp</dimen>
+    <dimen name="bigSpacing">16dp</dimen>
+
+    <!-- LoginFragment -->
+
+
+    <!-- PreviewFragment -->
+    <dimen name="coverHeight">120dp</dimen>
+    <dimen name="holderSize">84dp</dimen>
+    <dimen name="holderSizeRound">42dp</dimen>
+    <dimen name="profileImageSize">80dp</dimen>
+    <dimen name="profileImageRoundSize">40dp</dimen>
+    <dimen name="profileImageTopMargin">65dp</dimen>
+    <dimen name="profileImageElevation">10dp</dimen>
+    <dimen name="infoCardTopMargin">35dp</dimen>
+    <dimen name="infoCardElevation">5dp</dimen>
+    <dimen name="iconSize">24dp</dimen>
+    <dimen name="smallIconSize">18dp</dimen>
+    <dimen name="iconVerticalSpacing">48dp</dimen>
+    <dimen name="iconHorizontalSpacing">16dp</dimen>
+    <dimen name="infoHorizontalSpacing">24dp</dimen>
+    <dimen name="jobIconSize">40dp</dimen>
 </resources>

@@ -67,7 +67,7 @@ class PreviewFragment : Fragment(), PreviewContract.View {
 
     private fun initView() {
         presenter.loadData()
-        onLoadDataFailed("oops")
+        //onLoadDataFailed("oops")
     }
 
     override fun showLoading() {
